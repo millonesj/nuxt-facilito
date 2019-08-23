@@ -1,0 +1,2 @@
+# nuxt-facilito
+Aprendiendo nuxt
